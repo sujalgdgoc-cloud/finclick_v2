@@ -69,7 +69,7 @@ Flutter App -> Supabase -> FastAPI -> AI Layer
 
 Clone the repo:
 
-git clone https://github.com/yourusername/finclick.git  
+git clone https://github.com/sujalgdgoc-cloud/finclick_v2 
 cd finclick  
 
 Run frontend:
